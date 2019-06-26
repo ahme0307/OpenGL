@@ -1,6 +1,6 @@
 # Object Loaders
 Windows (cmake-gui)
-~~~~~~~~~~~~~~~~~~~
+
 
 1. Set the source code file to the root directory containing "CMakeLists.txt"
 2. Binaries can be built in the directory of your choice, e.g. "OpenGL\visual\``
